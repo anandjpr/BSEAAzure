@@ -3,6 +3,8 @@ node_modules
 jspm_packages
 npm-debug.log
 debug.log
+!build/app/*.js
+!build/node_modules/*.js
 src/**/*.js
 !src/index.js
 !src/server/*.js
